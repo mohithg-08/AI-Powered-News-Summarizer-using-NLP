@@ -1,2 +1,3 @@
-# AI-Powered-News-Summarizer-using-NLP
-An AI powered news summarizer is a tool that uses Natural Language Processing (NLP) to automatically read a full-length news and create a short, concise, and coherent summary.  The main goal is to save you time by quickly giving you the most important information the "who, what, when, where, and why without you having to read the entire text
+# AI-powered-News-Summariser-using-NLP
+
+![Screenshot 2025-06-30 132637](https://github.com/user-attachments/assets/5d100627-3f5e-4ced-b99d-d406d7be704f)
